@@ -1,0 +1,4 @@
+dk\nordea\textformat\UserInput.class
+dk\nordea\textformat\TextFormatter.class
+dk\nordea\textformat\TextFormatter$AligmentEnum.class
+dk\nordea\textformat\TextFormatterRunner.class
